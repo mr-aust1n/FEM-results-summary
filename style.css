@@ -255,6 +255,11 @@ body {
   margin: 41px 0 0 0;
 }
 
+.card_right--bttn:hover {
+  background: var(--Gradient-1);
+  color: var(--White);
+}
+
 .card_right__block {
   font-size: 18px;
   font-style: normal;
